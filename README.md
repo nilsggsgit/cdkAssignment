@@ -1,7 +1,7 @@
 # cdkAssignment
 
-## Go to project directory
-## package it
+# Go to project directory
+# package it
 $ mvn clean install  or mvn clean package
 
 $ java -jar target/bill-calculation-0.0.1-SNAPSHOT.jar <Purchase-Amount>
